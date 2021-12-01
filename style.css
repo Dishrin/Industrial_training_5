@@ -27,6 +27,12 @@
     float:left;
     margin-left:1%;
 }
+@media only screen and (max-width: 800px) {
+.items{
+width:100%;
+}
+}
+
 
 .thumbnail{
     display: block;
